@@ -1,0 +1,8 @@
+C:\Users\Harshit Yadav\Documents\GitHub\Rss-Reader-one-\Rss Reader\Rss Reader\bin\Debug\Rss Reader.exe
+C:\Users\Harshit Yadav\Documents\GitHub\Rss-Reader-one-\Rss Reader\Rss Reader\bin\Debug\Rss Reader.pdb
+C:\Users\Harshit Yadav\Documents\GitHub\Rss-Reader-one-\Rss Reader\Rss Reader\obj\Debug\Rss Reader.csprojResolveAssemblyReference.cache
+C:\Users\Harshit Yadav\Documents\GitHub\Rss-Reader-one-\Rss Reader\Rss Reader\obj\Debug\Rss_Reader.Form1.resources
+C:\Users\Harshit Yadav\Documents\GitHub\Rss-Reader-one-\Rss Reader\Rss Reader\obj\Debug\Rss_Reader.Properties.Resources.resources
+C:\Users\Harshit Yadav\Documents\GitHub\Rss-Reader-one-\Rss Reader\Rss Reader\obj\Debug\Rss Reader.csproj.GenerateResource.Cache
+C:\Users\Harshit Yadav\Documents\GitHub\Rss-Reader-one-\Rss Reader\Rss Reader\obj\Debug\Rss Reader.exe
+C:\Users\Harshit Yadav\Documents\GitHub\Rss-Reader-one-\Rss Reader\Rss Reader\obj\Debug\Rss Reader.pdb

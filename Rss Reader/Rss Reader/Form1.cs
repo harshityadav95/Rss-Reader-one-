@@ -110,6 +110,8 @@ namespace Rss_Reader
                 System.Diagnostics.Process.Start(rssData[comboBox1.SelectedIndex,2]);
 
         }
+
+        //http://go.microsoft.com/fwlink/?linkid=85889&clcid=409
     }
 }
 
